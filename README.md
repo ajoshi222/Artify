@@ -6,8 +6,10 @@ This application allows you to generate unique images based on textual descripti
  ![preview](https://user-images.githubusercontent.com/69758727/218245038-163bb500-499a-4785-adfd-ff72310675a1.png)
 
 <h2>Create post </h2>
-![preview](https://user-images.githubusercontent.com/69758727/218245076-74526d53-4570-4a1e-8043-d6c60e8e589c.png)
+ 
+![Screenshot 2023-02-11 025503](https://user-images.githubusercontent.com/69758727/218245129-6b04f797-431d-48a1-b425-504bba2d7bfd.png)
 
 
 <H2>Share with the comunity</h2>
-![preview](https://user-images.githubusercontent.com/69758727/218245086-d8af41e1-8aa0-4cc7-b192-7aaf4a243c0e.png)
+ 
+![Screenshot 2023-02-11 025535](https://user-images.githubusercontent.com/69758727/218245131-595a2494-8a47-4fec-beea-4d96f3b1d6df.png)
